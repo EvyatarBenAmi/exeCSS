@@ -22,3 +22,117 @@
     position: absolute;
     right: 50%;
 }
+
+#sectionTwo{
+    position: sticky;
+    top: 0;
+    z-index: 3;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid rgba(142, 142, 142, 0.459);
+    background-color: white;
+    text-align: center;
+}
+#pegs{
+    text-decoration: none;
+    color: rgb(112, 109, 109);
+    font-size: 25px;
+    margin-right: 45px;
+    margin-right: 45px;
+    position: relative;
+    z-index: 1;
+    top: 7px;
+}
+
+#topAdvertising{
+    background-color: rgb(238, 236, 236);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+
+}
+#imgTopAdv{
+    width: 1200px;
+    border-radius: 5px;
+    position: absolute;
+    top: 15px;
+    right: 450px;
+}
+
+#sectionNituv{
+    position: relative;
+    border-bottom: 1px solid rgba(182, 182, 182, 0.342);
+    width: 100%;
+    height: 40px;
+    z-index: 1;
+}
+#nituv1{
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    right: 300px;
+    top: 7px;
+    color: rgb(108, 106, 106);
+}
+#nituv2{
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    right: 350px;
+    top: 7px;
+    color: rgb(108, 106, 106);
+}
+#nituv3{
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    right: 370px;
+    top: 7px;
+    color: rgb(108, 106, 106);
+}
+
+#sectionFamely{
+    position: relative;
+    width: 100%;
+    height: 170px;
+    border-bottom: 1px solid rgba(141, 138, 138, 0.177);
+    z-index: 1;
+}
+#color{
+    position: absolute;
+    background-color: brown;
+    width: 17px;
+    height: 17px;
+    border-radius: 2px;
+    top: 35px;
+    right: 280px;
+}
+#famely{
+    position: absolute;
+    font-size: 55px;
+    top: 12px;
+    right: 305px;
+}
+#txtFamely{
+    position: absolute;
+    font-size: 25px;
+    color: rgb(80, 74, 74);
+    top: 80px;
+    right: 280px;
+}
+
+#advertising1{
+    position: relative;
+    top: -330px;
+    right: 35px;
+    z-index: 2;
+
+}
+#advertising2{
+    position: relative;
+    top: -330px;
+    right:1750px;
+    z-index: 2;
+}
