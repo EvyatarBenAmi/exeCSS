@@ -1,0 +1,24 @@
+#topHeader {
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+#redMail {
+    width: 130px;
+    position: absolute;
+    top: 28px;
+    left: 300px;
+}
+#imgSun{
+    width: 40px;
+    position: absolute;
+    top: 30px;
+    right: 350px;
+}
+#linkKikarSabat{
+    width: 120px;
+    position: absolute;
+    right: 50%;
+}
