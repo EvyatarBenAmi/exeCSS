@@ -124,15 +124,13 @@
 }
 
 #advertising1{
-    position: relative;
-    top: -330px;
+    position: fixed;
+    top: 330px;
     right: 35px;
-    z-index: 2;
 
 }
 #advertising2{
-    position: relative;
-    top: -330px;
-    right:1750px;
-    z-index: 2;
+    position: fixed;
+    top: 330px;
+    right:1800px;
 }
